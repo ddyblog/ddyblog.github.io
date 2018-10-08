@@ -1,5 +1,5 @@
 ﻿# Site settings
-title: ddy Blog
+title: 	James Norrington
 SEOTitle: 段航琪的博客 | ddy Blog
 header-img: img/post-bg.jpg
 email: 810965814@qq.com
@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "xiaocaiji,duanhangqi"
 url: "http://ddyblog.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ddyblog" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -17,11 +17,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
-weibo_username:     詹皇联盟第一
-zhihu_username:     qiubaiying
-github_username:    ddyblog
-facebook_username:  baiying.qiu.7
+#RSS: false
+#weibo_username:     詹皇联盟第一
+#zhihu_username:     qiubaiying
+#github_username:    ddyblog
+#facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: e81ec6656558d41c0161                            #生成的clientID
+  clientSecret: 7351e34a6dfc6bad1c6a34c55a334eede9eac058    #生成的clientSecret
+  repo: ddyblog.github.io    #仓库名称
+  owner: ddyblog    #github用户名
+  admin: ddyblog
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "糖醋鱼大佬",
+        href: "https://s.zzuzayu.top"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "双足",
+        href: "https://shuangzu.top"
     }
 ]
