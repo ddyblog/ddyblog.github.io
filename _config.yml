@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "糖醋鱼大佬",
+        href: "https://s.zzuzayu.top"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "双足",
+        href: "https://shuangzu.top"
     }
 ]
